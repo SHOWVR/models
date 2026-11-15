@@ -1,6 +1,6 @@
 # models
 
-https://raw.githubusercontent.com/SHOWVR/models/refs/heads/main/Aviation/....
+https://raw.githubusercontent.com/SHOWVR/models/refs/heads/main/Aviation/
 
 #### Furniture
 <p>
