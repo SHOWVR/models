@@ -1,7 +1,7 @@
 # models
 
 #### Electronics
-![https://modelviewer.dev//assets/ShopifyModels/Chair.webp](https://modelviewer.dev/assets/ShopifyModels/Chair.glb)
+![https://modelviewer.dev//assets/ShopifyModels/Chair.glb](https://modelviewer.dev/assets/ShopifyModels/Chair.webp)
 
 
 
