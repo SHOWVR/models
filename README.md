@@ -1,7 +1,9 @@
 # models
 
 #### Electronics
-![https://modelviewer.dev//assets/ShopifyModels/Chair.glb](https://modelviewer.dev/assets/ShopifyModels/Chair.webp)
+<p>
+  <a href="https://modelviewer.dev//assets/ShopifyModels/Chair.glb"><img src="https://modelviewer.dev/assets/ShopifyModels/Chair.webp" height="100"/></a>
+</p>
 
 
 
