@@ -2,7 +2,8 @@
 
 #### Furniture
 <p>
-  <a href="https://modelviewer.dev//assets/ShopifyModels/Chair.glb"><img src="https://modelviewer.dev/assets/ShopifyModels/Chair.webp" height="100"/></a>
+  <a href="https://modelviewer.dev/assets/ShopifyModels/Chair.glb"><img src="https://modelviewer.dev/assets/ShopifyModels/Chair.webp" height="100"/></a>
+  <a href="https://modelviewer.dev/shared-assets/models/glTF-Sample-Assets/Models/BoomBox/glTF-Draco/BoomBox.gltf">BoomBox</a>
 </p>
 
 
